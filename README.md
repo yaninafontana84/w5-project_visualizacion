@@ -2,7 +2,7 @@
 
 Para este proyecto utilicé un archivo CSV sobre las ventas de los videojuegos desde 1980 a 2017. El mismo fue extraído de la carpeta apuntes de clase del bootcamp de Ironhack, transformado, y cargado en una base de datos en DBeaver.
 
-Posteriormente, con la herramienta Tableau realicé los gráficos y dashboards correspondientes. 
+Posteriormente, con la herramienta Tableau realicé los gráficos y dashboards correspondientes.
 
 ## Historia de la Evolución de la Industria de Videojuegos:
 
@@ -26,7 +26,7 @@ A medida que avanzamos hacia la actualidad, observamos un descenso en las ventas
 
 #### Conclusiones: Un Viaje a Través de las Décadas
 
-En resumen, nuestro viaje a través de las décadas de la industria de videojuegos revela una narrativa de innovación, expansión global y cambios en los patrones de consumo. Desde los primeros días de Super Mario hasta el apogeo de la Wii y la PlayStation 2, la industria ha vivido una montaña rusa de éxitos y desafíos. 
+En resumen, nuestro viaje a través de las décadas de la industria de videojuegos revela una narrativa de innovación, expansión global y cambios en los patrones de consumo. Desde los primeros días de Super Mario hasta el apogeo de la Wii y la PlayStation 2, la industria ha vivido una montaña rusa de éxitos y desafíos.
 
 Para ilustrar lo anteriormente relatado es que diseñé los siguientes gráficos que se pueden consultar en [Tableau Public](https://public.tableau.com/app/profile/yanina.fontana/viz/Proyectovisualizacin_16998277177090/Dashboard2) sin necesidad de descargar Tableau Desktop
 
@@ -34,11 +34,8 @@ Para ilustrar lo anteriormente relatado es que diseñé los siguientes gráficos
 
 * [Python Data Cleaning]([https://realpython.com/python-data-cleaning-numpy-pandas/#python-data-cleaning-recap-and-resources]())
 * [Python](https://docs.python.org/3/library/functions.html)
-
 * [Pandas](https://pandas.pydata.org/docs/)
 * [MySQL](https://www.mysql.com/)
-
 * [SQLAlchemy](https://www.sqlalchemy.org/)
 * [DBeaver](https://dbeaver.com/docs/dbeaver/)
-
 * [Tableau Public](https://www.tableau.com/es-es/community/public)
