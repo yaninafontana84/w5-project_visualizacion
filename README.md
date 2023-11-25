@@ -2,7 +2,7 @@
 
 Para este proyecto utilicé un archivo CSV sobre las ventas de los videojuegos desde 1980 a 2017. El mismo fue extraído de la carpeta apuntes de clase del bootcamp de Ironhack, transformado, y cargado en una base de datos en DBeaver.
 
-Posteriormente, con la herramienta Tableau realicé los gráficos y dashboards correspondientes.
+Posteriormente, con la herramienta [Tableau](tableau.com) realicé los gráficos y dashboards correspondientes.
 
 ## Historia de la Evolución de la Industria de Videojuegos:
 
