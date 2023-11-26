@@ -1,4 +1,4 @@
-![1700951889028](image/README/1700951889028.png)
+![1701039799285](https://file+.vscode-resource.vscode-cdn.net/Users/yaninafontana/ironhack/w5-project_visualizacion/image/README/1701039799285.png)
 
 ## Proyecto visualización en Tableau
 
@@ -24,7 +24,7 @@ Hace más de cuatro décadas, la industria de los videojuegos comenzó su ascens
 
 En los albores de los videojuegos, títulos clásicos como "Super Mario Bros" en la NES marcaron el comienzo de una nueva era. La década de 1980 vio el auge de las consolas de 8 bits, estableciendo los cimientos de la industria. Pero fue recién en 1996 cuando un cambio significativo ocurrió: la introducción de la Nintendo 64 y el surgimiento de juegos en 3D como "Super Mario 64". Este hito tecnológico atrajo a más jugadores y marcó el inicio de una era dorada. En este año se ve un  aumento significativo en las ventas a nivel global
 
-![1700955195423](image/README/1700955195423.png)
+![1701039822600](image/README/1701039822600.png)
 
 #### ➡️ 1996-2008: Innovaciones y Explosión de Ventas
 
@@ -32,7 +32,7 @@ En 1996, la Nintendo 64 y la PlayStation de Sony llevaron los gráficos a un nue
 
 El boom alcanzó su punto máximo en 2008, impulsado por la PlayStation 2, la Wii y la Xbox 360. La innovación en hardware, junto con títulos icónicos como "Wii Sports", catapulta las ventas a niveles sin precedentes. Sin embargo, este pico también coincidió con la crisis financiera global...
 
-![1700955183701](image/README/1700955183701.png)
+![1701039831604](image/README/1701039831604.png)
 
 #### ➡️ 2008-Actualidad: Cambios en el Modelo de Negocio y la Era de la Conectividad
 
@@ -40,7 +40,7 @@ La crisis financiera de 2008 afectó la industria, pero fue solo el comienzo de 
 
 A medida que avanzamos hacia la actualidad, observamos un descenso en las ventas tradicionales de videojuegos. La saturación del mercado, la competencia con otras formas de entretenimiento y la rápida evolución de la tecnología han contribuido a este declive.
 
-![1700955818017](image/README/1700955818017.png)
+![1701039840409](image/README/1701039840409.png)
 
 ## Conclusiones: Un Viaje a Través de las Décadas
 
@@ -56,6 +56,5 @@ En resumen, nuestro viaje a través de las décadas de la industria de videojueg
 * [DBeaver](https://dbeaver.com/docs/dbeaver/) 🦫
 * [Tableau Public](https://www.tableau.com/es-es/community/public) 📊
 * [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales) 👥
-
 
 .
