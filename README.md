@@ -6,16 +6,15 @@ Para este proyecto utilicé un archivo CSV sobre las ventas de los videojuegos d
 
 El mismo fue extraído de [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales), transformado, y  cargado en una base de datos en DBeaver.
 
-Posteriormente, con la herramienta [Tableau](tableau.com) realicé los gráficos y dashboards correspondientes.
+Posteriormente, con la herramienta [Tableau](https://www.tableau.com/es-es/community/public) realicé los gráficos y dashboards correspondientes.
 
-
-## 📌 Estructura del Repositorio 
+## 📌 Estructura del Repositorio
 
 El repositorio se divide en las siguientes carpetas y archivos:
 
 * 📂 **Data**: Contiene el dataset, tanto en crudo como limpio.
 * **📔 Notebook**: Contiene el procedicimiento de exploración, análisis y limpieza del dataset.
-* **📷 Image:** Contiene las imágenes utilizadas
+* **📷 Imágenes:** Contiene las imágenes utilizadas
 
 # 🎮 *Historia de la Evolución de la Industria de Videojuegos* 🎮
 
@@ -45,9 +44,9 @@ A medida que avanzamos hacia la actualidad, observamos un descenso en las ventas
 
 ## Conclusiones: Un Viaje a Través de las Décadas
 
-En resumen, nuestro viaje a través de las décadas de la industria de videojuegos revela una narrativa de innovación, expansión global y cambios en los patrones de consumo. Desde los primeros días de Super Mario hasta el apogeo de la Wii y la PlayStation 2, la industria ha vivido una montaña rusa de éxitos y desafíos. 
+En resumen, nuestro viaje a través de las décadas de la industria de videojuegos revela una narrativa de innovación, expansión global y cambios en los patrones de consumo. Desde los primeros días de Super Mario hasta el apogeo de la Wii y la PlayStation 2, la industria ha vivido una montaña rusa de éxitos y desafíos.
 
-##### 👀 Para ilustrar lo anteriormente relatado diseñé el siguiente DashBoard en [Tableau Public](https://public.tableau.com/app/profile/yanina.fontana/viz/Proyectovisualizacin_16998277177090/Dashboard2)
+##### 👀 Para ilustrar lo anteriormente relatado diseñé el siguiente DashBoard en [Tableau Public](https://public.tableau.com/app/profile/yanina.fontana/viz/Games_17010257398630/DashboardGames)
 
 #### Recursos utilizados 📚
 
@@ -57,3 +56,6 @@ En resumen, nuestro viaje a través de las décadas de la industria de videojueg
 * [DBeaver](https://dbeaver.com/docs/dbeaver/) 🦫
 * [Tableau Public](https://www.tableau.com/es-es/community/public) 📊
 * [Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales) 👥
+
+
+.
